@@ -133,6 +133,21 @@ Webots_Steering_Wheel/
 
       * **修改路径**: 你可以编辑 `4WIS/controllers/PID_Track/path.c` 和 `path.h` 文件来定义自己的运动轨迹
 
+## 👍 引用
+
+如果你发现我的工作对你有帮助，请考虑引用我的论文：
+```
+@inproceedings{zhou2024fuzzy,
+  title={Fuzzy-PID-based trajectory tracking for 3WIS robot},
+  author={Zhou, Xingyu and Xu, Chaobin},
+  booktitle={International Conference on Mechatronic Engineering and Artificial Intelligence (MEAI 2023)},
+  volume={13071},
+  pages={826--834},
+  year={2024},
+  organization={SPIE}
+}
+```
+
 ## 许可
 
 该项目采用 MIT 许可。详情请见 `LICENSE` 文件。
